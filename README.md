@@ -10,4 +10,4 @@ A lightweight Python script for detecting NVIDIA and Intel GPUs on Linux systems
 
 ## Usage
 ```bash
-python3 gpu-driver-checker.py
+python3 driver-detection.py
