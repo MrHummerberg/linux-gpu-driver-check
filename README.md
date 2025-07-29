@@ -1,5 +1,3 @@
-# linux-gpu-driver-check
-
 # gpu-driver-checker
 
 A lightweight Python script for detecting NVIDIA and Intel GPUs on Linux systems and checking whether their drivers and kernel modules are installed and active.
